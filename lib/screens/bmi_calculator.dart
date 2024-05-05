@@ -13,7 +13,7 @@ class BmiCalculator extends StatelessWidget {
         appBarTheme: AppBarTheme(
             backgroundColor: Color(0xFF0A0E21),
             titleTextStyle: TextStyle(
-              color: Colors.white,
+              color: Colors.black,
             )),
         floatingActionButtonTheme: FloatingActionButtonThemeData(
           backgroundColor: Colors.amber,
